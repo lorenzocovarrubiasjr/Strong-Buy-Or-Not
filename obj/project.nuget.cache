@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrA7rF1sO0GfPmUVMgbHPPgk3+LDO7eJcuBMkgSxg4pNbHuv6sqaBbPaHvVDGlaC+xTIwR2fhD6EJHKa87InDg==",
+  "success": true,
+  "projectFilePath": "/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/lorenzocovarrubias/.nuget/packages/htmlagilitypack/1.11.60/htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}

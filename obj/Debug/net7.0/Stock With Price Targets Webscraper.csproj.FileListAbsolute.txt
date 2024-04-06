@@ -1,0 +1,17 @@
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/bin/Debug/net7.0/Stock With Price Targets Webscraper
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/bin/Debug/net7.0/Stock With Price Targets Webscraper.deps.json
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/bin/Debug/net7.0/Stock With Price Targets Webscraper.runtimeconfig.json
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/bin/Debug/net7.0/Stock With Price Targets Webscraper.dll
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/bin/Debug/net7.0/Stock With Price Targets Webscraper.pdb
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.csproj.AssemblyReference.cache
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.AssemblyInfoInputs.cache
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.AssemblyInfo.cs
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.csproj.CoreCompileInputs.cache
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.dll
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/refint/Stock With Price Targets Webscraper.dll
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.pdb
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.genruntimeconfig.cache
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/ref/Stock With Price Targets Webscraper.dll
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/bin/Debug/net7.0/HtmlAgilityPack.dll
+/Users/lorenzocovarrubias/Desktop/lorenzo-projects/Stock With Price Targets Webscraper/Stock With Price Targets Webscraper/obj/Debug/net7.0/Stock With Price Targets Webscraper.csproj.CopyComplete
