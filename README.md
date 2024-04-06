@@ -1,0 +1,1 @@
+# Strong-Buy-Or-Not
